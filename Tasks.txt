@@ -1,0 +1,9 @@
+add admin to login method
+
+Signup method
+
+test all the end points
+
+unit tests
+
+put verification methods
